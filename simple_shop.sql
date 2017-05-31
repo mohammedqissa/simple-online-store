@@ -104,7 +104,7 @@ CREATE TABLE `users` (
 INSERT INTO `users` (`id`, `name`, `address`, `date`, `email`, `phone`, `number`, `exDate`, `cName`, `BanckName`, `password`, `userName`, `is_active`, `rule`) VALUES
 (1000000000, 'moe', 'ramallah', '29/12/1994', 'lasd@gmail.com', 5975685, 98547245, '2/1/2015', 'iyhkjfdikj', 'jordan', '25f9e794323b453885f5181f1b624d0b', 'moe', 1, 2),
 (1000000001, 'admin', 'ramallah', '29/12/1995', 'asd@asd.com', 54, 655845, '232598865', 'admin', 'jordan', '25f9e794323b453885f5181f1b624d0b', 'mohammed', 1, 1),
-(1000000007, 'Mohammed Issa', 'ramallah', '123123', 'mohiisa1995@gmail.com', 597859022, 123123, '123123', '123123', '123123', '25d55ad283aa400af464c76d713c07ad', 'mohammed1', 1, 2);
+(1000000007, 'Mohammed Issa', 'ramallah', '123123', 'm5@gmail.com', 597859022, 123123, '123123', '123123', '123123', '25d55ad283aa400af464c76d713c07ad', 'mohammed1', 1, 2);
 
 --
 -- Indexes for dumped tables
